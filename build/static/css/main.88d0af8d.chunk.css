@@ -1,0 +1,2 @@
+*{box-sizing:border-box;padding:0;margin:0}:root{--bc-primary:#1a1a1a;--bc-secondary:#fff;--fc-primary:#fff;--fc-secondary:#1a1a1a;--ff-primary:"Segoe UI",Tahoma,Geneva,Verdana,sans-serif;--ff-secondary:"Courier New";--fs-primary:1rem;--padding:.5rem;--margin:.5rem 0 0}::selection{background-color:#fff;background-color:var(--fc-primary);color:#1a1a1a;color:var(--bc-primary)}body{padding:0 .5rem;background-color:#1a1a1a;background-color:var(--bc-primary);color:#fff;color:var(--fc-primary)}
+/*# sourceMappingURL=main.88d0af8d.chunk.css.map */
